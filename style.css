@@ -1,0 +1,110 @@
+
+body {
+    background-color: #FF9D23;
+}
+nav {
+    padding: 10px;
+    margin: 10px ;
+    text-align: center;
+    border: 2px solid #FCF596;
+    color: white;
+}
+header {
+    width: 90%;
+    border: 2px solid;
+    margin: 20px auto;
+    background-color: #FCF596;
+    text-align: center;
+
+}
+header img {
+    width: 90%;
+    border: 2px solid #FCF596;
+    margin: 20px auto;
+}
+header p {
+    padding-bottom: 30px;
+    text-align: center ;
+    height: 40px;
+}
+
+
+
+.about{
+    width: 95%;
+    border: 2px solid;
+    margin: 25px auto;
+    padding: 15px;
+    display: flex;
+    color: #FCF596
+}
+.about-left{
+    width: 50%;
+}
+.about-left img{
+    width: 65%;
+    border-radius: 7px;
+    border: 2px solid ;
+}
+.about-right{
+    margin: 20px auto;
+}
+.about-right h3{
+    font-weight: bold;
+}
+#Types_of_photographers{
+    width: 95%;
+    margin: 40px;
+    text-align: center;
+}
+.photographers-card{
+    padding: 20px;
+    border: 2px solid (51, 122, 255);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    background-color: #FEF9E1;
+}
+.card{
+    width: 850px;
+    border: 1px solid ;
+    align-items: center;
+    padding: 10px;
+}
+.card img{
+    width: 50%;
+    margin: 50px;
+    border: 2px #9e3434 groove;
+    
+}
+#Types_of_photographers h3{
+    text-align: center;
+}
+footer {
+    background-color: #C14600;
+    margin: 40px auto;
+    text-align: center;
+    display: flex;
+    width: 95%;
+    padding: 30px;
+    color: aliceblue;
+    border: 2px solid bisque;
+}
+.card h3{
+    color: #F7C566;
+} 
+.card p{
+    color:#C14600
+}
+nav img {
+    width: 50%;
+    margin: 20px;
+} 
+button {
+    display: block;
+    margin: 10px auto;
+    padding: 6px 25px;
+    background-color: #FF9D23;
+    border: groove;
+    border-radius: 20px 20px 20px 20px;
+}
